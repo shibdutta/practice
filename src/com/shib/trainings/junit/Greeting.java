@@ -2,5 +2,5 @@ package com.shib.trainings.junit;
 
 public interface Greeting {
 
-	public String greet(String name);
+	public String greet(String namea);
 }
